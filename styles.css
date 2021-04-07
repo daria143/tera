@@ -1,0 +1,10 @@
+.root {
+  font-size: 22pt;
+  text-align: center;
+}
+body {
+  background-image: url("https://vsthemes.org/uploads/posts/2019-04/1581997464_aesthetic-white_vsthemes_ru-14.jpg");
+  margin: auto;
+  max-width: 320px;
+  padding: 300px;
+}
